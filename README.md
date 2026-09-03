@@ -130,7 +130,7 @@
 
 # 🖼 نمونه داشبورد
 
-![Dashboard](Images/dashboard-main.png)
+![Dashboard](Dashboard/IranLivingBasket.pdf)
 
 ---
 
